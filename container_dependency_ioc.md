@@ -14,10 +14,11 @@
 
 - Advantages:
 
-      * Dependency Injection decreases coupling between a class and its dependency.
-      * Reduction of boilerplate code in the application objects, since all work to initialize or set up dependencies is handled by a provider component.
-      * Reducing a components dependencies typically makes it easier to reuse in a different context.
-      * Dependency injection also increases a components testability. When dependencies can be injected into a component it is possible to inject mock implementations of these dependencies.
+     *   Dependency Injection decreases coupling between a class and its dependency.
+     *   Reduction of boilerplate code in the application objects, since all work to initialize or set up dependencies is handled by a provider component.
+     *   Reducing a components dependencies typically makes it easier to reuse in a different context.
+     *   Dependency injection also increases a components testability. When dependencies can be injected into a component it is possible to inject mock implementations of these dependencies.
+      
 
 ### What is a pattern? What is an anti-pattern? Is dependency injection a pattern?
 
